@@ -17,5 +17,5 @@
 
 - Our project ideas seem to not include a lot of coding, would that be okay?
 - Which one do you think would be the best for us to make? Do you think any of them is too hard?
-- We have to buy materials for this project, do you recommendations for where to purchase these materials?
+- We have to buy materials for this project, do you have recommendations for where to purchase these materials?
 - We're feeling kind of ambious. If we have extra time, can we make two projects?
