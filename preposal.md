@@ -1,18 +1,7 @@
 # Preproposal
 
-## What idea(s) do you have for your final project?
-
-<<<<<<< HEAD
-TODO
-
-## If you plan to collaborate with one or two classmates, what are their names?
-
-TODO
-
 ## Do you have any questions of your own?
 
-TODO
-=======
 - Pulse Oximeter --> Link: https://projecthub.arduino.cc/fiona-/pulse-oximeter-1298d5
 - Mini Electronic Piano --> Link: https://www.instructables.com/How-to-Make-Mini-Electronic-Piano-Using-Arduino/
 - Mini Lofi Raspberry Pi Radio --> Link: https://learn.adafruit.com/lofi-hip-hop-raspberry-pi-radio-braincraft/overview
@@ -30,4 +19,3 @@ TODO
 - Which one do you think would be the best for us to make? Do you think any of them is too hard?
 - We have to buy materials for this project, do you recommendations for where to purchase these materials?
 - We're feeling kind of ambious. If we have extra time, can we make two projects?
->>>>>>> bc9a4a76f8167d99303a0414d09592045bd6a8f3
