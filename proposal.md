@@ -6,7 +6,7 @@ Pulse Oximeter
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-- Our project aims to create a pulse oximeter which can be used to measure your heart rate and your SPO2(blood oxygen) levels. 
+Our project aims to create a pulse oximeter which can be used to measure your heart rate and your SPO2(blood oxygen) levels. 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
@@ -47,4 +47,5 @@ We would have to first determine what materials we would need to purchase, and w
 
 ## References/Links:
 - https://projecthub.arduino.cc/fiona-/pulse-oximeter-1298d5
+- https://makersportal.com/blog/tag/Python+Pulse+Oximetry?srsltid=AfmBOorOS9Xgx00TWwQqVb8L-BcFbRxsfowAJQU2yusyd0GyoTlFreh3
 
