@@ -43,4 +43,5 @@ Group of 2 --> Member Names:
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+We would have to first determine what materials we would need to purchase, and what materials we have access to through the Maker’s Studio at Temple. We would have to learn how to use the 3-d printer and make a design for physical monitor. We would also have to learn about the circuits and wires that are required for the light sensor in the monitor to work successfully. We would have to either learn C++ or change the applicable code from C++ to python for our usage. We would have to research a little more about how Arduino works, because we are using the Arduino platform in order to create our monitor. We plan on working together throughout this whole process. 
+
