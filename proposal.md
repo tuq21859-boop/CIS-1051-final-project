@@ -6,7 +6,7 @@ Pulse oximeter
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-Our project aims to create a pulse oximeter which can be used to measure your heart rate and your SPO2 levels. 
+- Our project aims to create a pulse oximeter which can be used to measure your heart rate and your SPO2 levels. 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
@@ -17,9 +17,9 @@ TODO
 TODO, if applicable
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
-(Group of 2)
-Salina Zhang: Tuq21859@temple.edu, Ta: David Loder 
-Sophia Sun: Tus42704@temple.edu, Ta: Farnoush Nilizadeh 
+Group of 2 --> Member Names:
+- Salina Zhang: Tuq21859@temple.edu, Ta: David Loder 
+- Sophia Sun: Tus42704@temple.edu, Ta: Farnoush Nilizadeh 
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
