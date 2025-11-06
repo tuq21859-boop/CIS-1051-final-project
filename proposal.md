@@ -45,3 +45,6 @@ Group of 2 --> Member Names:
 
 We would have to first determine what materials we would need to purchase, and what materials we have access to through the Maker’s Studio at Temple. We would have to learn how to use the 3-d printer and make a design for physical monitor. We would also have to learn about the circuits and wires that are required for the light sensor in the monitor to work successfully. We would have to either learn C++ or change the applicable code from C++ to python for our usage. We would have to research a little more about how Arduino works, because we are using the Arduino platform in order to create our monitor. We plan on working together throughout this whole process. 
 
+## References/Links:
+- https://projecthub.arduino.cc/fiona-/pulse-oximeter-1298d5
+
