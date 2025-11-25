@@ -26,7 +26,7 @@ We brought all of the equipments needed for the project and booked a time for Te
 
 #### What have you not done for your project yet?
 
-TODO
+For the project, we have the CAD file for the outer case of the pulse oximeter but we still need to print it at the Makerspace which we have an appointment made. We still need to assemble the circuits and the wires and the overall hardware, and connect it to its case. We also need to edit the code provided in order to have it better fit for our project, and determine the factors that we want the screen to display, ie. frequency, heart rate, etc. 
 
 #### What problems, if any, have you encountered?
 
