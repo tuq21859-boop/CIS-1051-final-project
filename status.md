@@ -2,15 +2,19 @@
 
 #### Your name
 
-TODO
+- Salina Zhang
+- Sophia Sun
 
 #### Your section leader's name
 
-TODO
+- Salina's TA: David
+- Sophia's TA: Farnoush
+
+- Leader of Project: Salina
 
 #### Project title
 
-TODO
+Pulse Oximeter
 
 ***
 
@@ -18,7 +22,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We brought all of the equipments needed for the project and booked a time for Temple's Makerspace studio to build our hardward portion during break. We have the CAD file for the outer case of the pulse oximeter and we have already booked a time to use the 3D printing machines at Temple. Talked to a friend who is a ECE major and asked for help about the hardware and coding portion of the project. 
 
 #### What have you not done for your project yet?
 
