@@ -11,3 +11,6 @@ Challenges that we faced: In the beginning we had planned to make a 3D printed c
 For the software aspect of our project, we had to learn how to code in C++ which was one of the most difficult parts of this project. We had to get some help from our freind, who taught us the syntax used in C++. From then forward, it was just a lot of debugging with the code and just seeing what parameter our system was capable of performing at. We also had to to learn how to use Aurdino IDE which was where we wrote all of our code, and how we got our hardware to connect to the sensor and the display panel. 
 
 For some additonal fun machinery aspect of our project, we added a potentiometer which allows us to adjust the brightness of our display panel which was fun. We also added an additional light which will light up red everytime someone's heart rate went above 120 bpm and we also added a resistor so the brightness will be lower by half so our circuits don't get fried. 
+
+Project Video: 
+https://tuprd-my.sharepoint.com/:v:/r/personal/tuq21859_temple_edu/Documents/Attachments/CIS%201051%20Final%20Project_Heart%20Beat%20Monitor.mov?csf=1&web=1&e=sHtfWQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
